@@ -1,3 +1,3 @@
-const stripeKey = "sk_live_abcdef1234567890abcdef1234567890"
+const stripeKey = process.env.STRIPE_KEY
 
 export { stripeKey }
