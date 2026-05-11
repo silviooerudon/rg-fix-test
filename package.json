@@ -1,0 +1,8 @@
+{
+  "name": "rg-fix-test",
+  "version": "1.0.0",
+  "description": "RepoGuard auto-fix PR smoke test",
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
